@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Android and Web Development
 - 💞️ I’m looking to collaborate with company
-- 📫 How to reach me 2018016170.samiksha@ug.sharda.ac.in
+- 📫 How to reach me samikshakumari18@gmail.com
 
 <!---
 samikshakumari18/samikshakumari18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
